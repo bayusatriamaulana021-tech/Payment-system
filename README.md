@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pbo-payment-system
 
 Praktikum Pemrograman Berorientasi Objek: Merancang Sistem Pembayaran/Plugin dengan ABC dan Protocol.
@@ -22,3 +23,6 @@ Jalankan semua perintah dari folder `payment_system` (folder yang berisi `main.p
 
 Struktur: `core/` (kontrak, registry, pemroses) dan `plugins/` (transfer, ewallet, qris).
 Plugin baru cukup ditambahkan sebagai satu berkas di `plugins/` dengan dekorator `@register_plugin`.
+=======
+# Payment-system
+>>>>>>> e324a3558fcd3ef903ea7c7a6cb259cab38dc6c6
